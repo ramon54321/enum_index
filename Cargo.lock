@@ -4,4 +4,4 @@ version = 3
 
 [[package]]
 name = "enum_index_repr"
-version = "0.1.0"
+version = "0.1.1"
