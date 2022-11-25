@@ -4,7 +4,7 @@
 
 ### EnumIndex
 
-EnumIndex provides a small macro which implementes EnumIndexGet, permitting the following:
+EnumIndex provides a small macro which implements EnumIndexGet, permitting the following:
 
 ```rust
 use enum_index::EnumIndexGet;
