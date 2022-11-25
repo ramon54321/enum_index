@@ -4,4 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+enum_index = { path = "../" }
 enum_index_derive = { path = "../enum_index_derive" }
