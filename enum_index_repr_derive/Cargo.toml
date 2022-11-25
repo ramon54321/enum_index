@@ -1,7 +1,9 @@
 [package]
 name = "enum_index_repr_derive"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
+description = "Macros for enum_index_repr."
+license = "MIT"
 
 [dependencies]
 syn = { version = "1.0.98", features = ["full", "fold", "extra-traits"] }

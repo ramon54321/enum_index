@@ -1,6 +1,6 @@
 [package]
 name = "enum_index_repr"
-version = "0.1.1"
+version = "0.2.0"
 edition = "2021"
 description = "EnumIndexRepr provides a small macro which allows getting the index on an enum."
 license = "MIT"
@@ -8,3 +8,6 @@ license = "MIT"
 exclude = [
     "example/*",
 ]
+
+[dependencies]
+enum_index_repr_derive = "0.2"

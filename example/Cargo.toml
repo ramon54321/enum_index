@@ -5,4 +5,3 @@ edition = "2021"
 
 [dependencies]
 enum_index_repr = { path = "../" }
-enum_index_repr_derive = { path = "../enum_index_repr_derive" }
