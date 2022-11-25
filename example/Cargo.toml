@@ -1,8 +1,8 @@
 [package]
-name = "enum_index_example"
+name = "enum_index_repr_example"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-enum_index = { path = "../" }
-enum_index_derive = { path = "../enum_index_derive" }
+enum_index_repr = { path = "../" }
+enum_index_repr_derive = { path = "../enum_index_repr_derive" }

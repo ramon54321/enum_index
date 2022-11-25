@@ -1,5 +1,5 @@
 [package]
-name = "enum_index_derive"
+name = "enum_index_repr_derive"
 version = "0.1.0"
 edition = "2021"
 

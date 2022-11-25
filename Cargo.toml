@@ -1,8 +1,8 @@
 [package]
-name = "enum_index"
+name = "enum_index_repr"
 version = "0.1.0"
 edition = "2021"
-description = "EnumIndex provides a small macro which allows getting the index on an enum."
+description = "EnumIndexRepr provides a small macro which allows getting the index on an enum."
 license = "MIT"
 
 exclude = [
