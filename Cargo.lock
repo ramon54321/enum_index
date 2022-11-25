@@ -4,14 +4,16 @@ version = 3
 
 [[package]]
 name = "enum_index_repr"
-version = "0.1.1"
+version = "0.2.0"
 dependencies = [
  "enum_index_repr_derive",
 ]
 
 [[package]]
 name = "enum_index_repr_derive"
-version = "0.1.0"
+version = "0.2.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "7f7fb2282db55eabfd8cf1e60e4a5268154655c32d5d30d6e31087883003d5a7"
 dependencies = [
  "proc-macro2",
  "quote",
