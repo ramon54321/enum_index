@@ -7,8 +7,8 @@
 EnumIndex provides a small macro which implements EnumIndexGet, permitting the following:
 
 ```rust
-use enum_index::EnumIndexGet;
-use enum_index_derive::EnumIndex;
+use enum_index_repr::EnumIndexGet;
+use enum_index_repr_derive::EnumIndex;
 
 #[repr(u16)]
 #[derive(EnumIndex)]
