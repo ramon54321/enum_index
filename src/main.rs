@@ -1,5 +1,5 @@
-use enums::EnumIndexGet;
-use enums_derive::EnumIndex;
+use enum_index::EnumIndexGet;
+use enum_index_derive::EnumIndex;
 
 #[repr(u16)]
 #[derive(EnumIndex)]

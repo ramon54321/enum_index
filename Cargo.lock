@@ -3,14 +3,14 @@
 version = 3
 
 [[package]]
-name = "enums"
+name = "enum_index"
 version = "0.1.0"
 dependencies = [
- "enums_derive",
+ "enum_index_derive",
 ]
 
 [[package]]
-name = "enums_derive"
+name = "enum_index_derive"
 version = "0.1.0"
 dependencies = [
  "proc-macro2",

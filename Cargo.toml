@@ -1,9 +1,9 @@
 [package]
-name = "enums"
+name = "enum_index"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-enums_derive = { path = "./enums_derive" }
+enum_index_derive = { path = "./enum_index_derive" }
