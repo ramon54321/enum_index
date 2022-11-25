@@ -2,6 +2,8 @@
 name = "enum_index"
 version = "0.1.0"
 edition = "2021"
+description = "EnumIndex provides a small macro which allows getting the index on an enum."
+license = "MIT"
 
 exclude = [
     "example/*",
