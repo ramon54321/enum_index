@@ -6,7 +6,7 @@
 
 EnumIndex provides a small macro which implementes EnumIndexGet, permitting the following:
 
-```
+```rust
 use enum_index::EnumIndexGet;
 use enum_index_derive::EnumIndex;
 
